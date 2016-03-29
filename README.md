@@ -1,2 +1,2 @@
-# JSStudio
+# JS Studio
 JavaScript Editor
